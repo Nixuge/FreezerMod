@@ -1,4 +1,2 @@
-# AllowSectionSign
-Allows you to type the section sign (color character) in chat & anywhere else. 
-
-Needs to have a server that allows it if used in multiplayer.
+# Freezermod
+Allows you to freeze yourself & other players in game with a keybind. Also allows you to crash your game using a keybind.
