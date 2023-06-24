@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nixuge.freezer.mixins",
+  "refmap": "refmap.freezer.json",
+  "mixins": [],
+  "client": [
+    "client.MinecraftMixin"
+  ],
+  "server": []
+}
